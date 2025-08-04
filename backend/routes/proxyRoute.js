@@ -10,7 +10,7 @@ const VALID_API_KEY = process.env.SECRET_API_KEY; // API Key stored in env
 
 // Allowed frontend domains
 const ALLOWED_ORIGINS = [ "https://3.111.9.37",
-  "https://glitchd.in","http://localhost:3000"];
+  "https://glitchd.in","http://localhost:3000","https://glitchd-1.onrender.com","https://glitchd-shjr.onrender.com"];
 
 
 // ✅ Middleware: Verify JWT for Logged-in Users

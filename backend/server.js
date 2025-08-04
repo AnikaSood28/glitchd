@@ -26,7 +26,8 @@ const allowedOrigins = [
  "https://3.111.9.37", // Server IP
  "https://glitchd.in",
 "http://localhost:3000",
-
+"https://glitchd-1.onrender.com",
+"https://glitchd-shjr.onrender.com",
 "http://127.0.0.1:3000"
 ];
   
